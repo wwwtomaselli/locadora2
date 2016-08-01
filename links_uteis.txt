@@ -1,0 +1,20 @@
+http://getbootstrap.com/examples/navbar-static-top/
+http://bitbucket.org/
+http://bootsnipp.com/snippets/featured/easy-table-filter
+http://percona.com
+Complemento Firefox: SQLite Manager
+http://github.com/sorrycc/awesome-javascript
+http://jstherightway.org/pt-br/
+http://br.phptherightway.com/
+http://eloquentjavascript.net/
+http://github.com/braziljs/eloquente-javascript
+http://github.com/eternicode/bootstrap-datepicker
+http://igorescobar.github.io/jQuery-Mask-Plugin/
+http://momentjs.com/
+http://underscorejs.org/
+http://backbonejs.org/
+http://freepik.com
+http://iconfinder.com
+
+http://php.net/manual/pt_BR/ref.image.php
+http://wiki.locaweb.com.br/pt-br/Processamento_de_Imagem_com_o_PHP_%28GD%29
